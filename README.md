@@ -1,4 +1,4 @@
-# VueConf 2026 Slides
+# Vue & ViteConf 2026 Slides
 
 ## Vue 和 Vite 生态最新进展
 

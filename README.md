@@ -4,6 +4,7 @@
 
 演讲人：**尤雨溪**  VoidZero 创始人 & CEO，Vue.js & Vite 作者
 
+https://github.com/VueConf/2026/blob/main/Vue%20x%20Vite%E7%94%9F%E6%80%81%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%40Evan.pdf
 
 ## 深入理解 Vapor mode
 
